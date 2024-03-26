@@ -31,6 +31,8 @@ Sebuah rumah memiliki n+1 LED (n = banyaknya anggota kelompok) yang bisa di atur
 
 ## Board Schematic
 Schematic :
+
+
 ![wokwi](https://github.com/anantaYSR/posttest4-Praktikum-iot-unmul-2024/assets/93465182/5fed7e6f-e37a-4e42-af09-dafa216d0248)
   
 ![shemantic](https://github.com/anantaYSR/posttest4-Praktikum-iot-unmul-2024/assets/93465182/efa2d49c-5a6f-463c-9d9d-dc528df819ba)
